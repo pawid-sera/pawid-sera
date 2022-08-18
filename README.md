@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pawid-sera
-- 👀 I’m interested in frontend Development
+- 👋 Hi, I’m @pawitpriyanto
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me pittik14@gmail.com
